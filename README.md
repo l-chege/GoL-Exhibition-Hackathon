@@ -1,6 +1,7 @@
 # GoL-Exhibition-Hackathon
 GOL Exhibition is a slim version of the Season whereby students in the school still compete in a 5-week hackathon but without a GOL Show. The host school/organization provides participants that are divided into groups of five to solve a given challenge. Depending on the host, alumni from previous Seasons may be invited to hack alongside the participants. Microsoft ADC then provides training and mentorship. The final projects are judged by the host and ADC, and a winner selected.
 # Introduction
+Check out the project board here - https://github.com/laura-chege/GoL-Exhibition-Hackathon/projects
 # Team Name
 # Team Members
 -Brayan Kai Mwanyumba
