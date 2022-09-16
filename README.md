@@ -3,11 +3,11 @@ GOL Exhibition is a slim version of the Season whereby students in the school st
 # Introduction
 # Team Name
 # Team Members
-Brayan Kai Mwanyumba
-Immaculate Wakio
-Anittah Kemboi
-Francis Odero
-Laura Chege
+-Brayan Kai Mwanyumba
+-Immaculate Wakio
+-Anittah Kemboi
+-Francis Odero
+-Laura Chege
 # Project theme
 As the global population continues to explode, the world’s healthcare systems are straining to keep up with increased demand. That’s why some outside-the-box thinking is necessary to keep the planet’s population healthy as it inches ever closer to 10 billion people.human resource and staffing issue through a proper policy in place that will boost the public health sector. 
  
