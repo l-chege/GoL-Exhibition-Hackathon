@@ -14,5 +14,5 @@ As the global population continues to explode, the world’s healthcare systems 
  
 Design a solution that will make healthcare available to more people!
 
-#Team Progress
-#Current Challenges
+# Team Progress
+# Current Challenges
