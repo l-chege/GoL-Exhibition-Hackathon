@@ -9,4 +9,11 @@ print('User details are: ')
 print(user.name)
 print(user.screen_name)
 print(user.followers_count)
-for friend in user. friends(): 21 print(friend.screen_name)
+
+for friend in user. friends():
+    print(friend.screen_name)
+   
+for follower in tw. Cursor(api.followers).items():
+    follower.follow()
+
+
