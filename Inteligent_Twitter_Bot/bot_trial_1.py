@@ -17,3 +17,18 @@ for follower in tw. Cursor(api.followers).items():
     follower.follow()
 
 
+def limit_handled(cursor):
+    try:
+        while True:
+            yield cursor.next()
+
+    except tw.RateLimitError: 
+        time.sleep(10)
+
+    except StopIteration: 
+        time.sleep(10)
+
+I
+for follower in limit handled (tw. Cursor(api.followers).items()):
+    print(follower.screen_name)
+
